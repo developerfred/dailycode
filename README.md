@@ -1,23 +1,24 @@
-## 代码
+## Code
 
 - [Function.prototype.bind 实现](./jscode/bind.js)
-- [Tapable 中的 insertBefore 算法](../jscode/insertBefore.md)
+- [O algoritmo insertBefore no Tapable](../jscode/insertBefore.md)
 
-## 算法
 
-- [插入排序](./algorithms/sorting/selection-sort)
-- [多数投票算法(Majority Voting Algorithm)](./algorithms/majority-voting.md)
-- [二分查找](./algorithms/binary-search.md)
-- [KMP 算法](./algorithms/kmp.md)
-- [BFS 广度优先搜索](./algorithms/bfs.md)
-- [DFS 深度优先搜索](./algorithms/dfs.md)
-- [Floyd 判圈算法](https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95)
+## Algoritmo 
+
+- [Inserir classificação](./algorithms/sorting/selection-sort)
+- [Algoritmo de votação por maioria(Majority Voting Algorithm)](./algorithms/majority-voting.md)
+- [Pesquisa binária](./algorithms/binary-search.md)
+- [Algoritmo KMP](./algorithms/kmp.md)
+- [Primeira pesquisa de largura de BFS](./algorithms/bfs.md)
+- [Primeira pesquisa de profundidade do DFS](./algorithms/dfs.md)
+- [Algoritmo de Floyd Circle](https://zh.wikipedia.org/wiki/Floyd%E5%88%A4%E5%9C%88%E7%AE%97%E6%B3%95)
 
 ## LeetCode
 
-### 数组
+### Matriz
 
-- [x] [#双指针][remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
+- [x] [Ponteiro duplo][remove-duplicates-from-sorted-array](./leetcode/Remove-Duplicates-from-Sorted-Array.ts)
 - [x] [Best-Time-to-Buy-and-Sell-Stock-II](./leetcode/Best-Time-to-Buy-and-Sell-Stock-II.ts)
 - [x] [Contains-Duplicate](./leetcode/Contains-Duplicate.ts)
 - [x] [Rotate-Array](./leetcode/Rotate-Array.ts)
